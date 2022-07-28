@@ -1,0 +1,31 @@
+package RiseOfForm
+
+-- version     = 0.0.1.0
+
+-- langversion >= 0.5.1 && < 1.0.0
+
+brief       = "Proofs and code for the book"
+
+readme      = "README.md"
+
+-- NOTE: For license information see the file LICENSE.
+
+authors     = "Jürgen Nicklisch-Franken - jutaro <jnf@arcor.de>"
+maintainers = "Jürgen Nicklisch-Franken - jutaro <jnf@arcor.de>"
+
+homepage    = ""
+sourceloc   = "https://github.com/jutaro/RiseOfForm"
+bugtracker  = "https://github.com/jutaro/RiseOfForm/issues"
+
+sourcedir   = "src"
+
+-- opts       = "--inc chez"
+
+modules     = FirstProof
+
+-- main        = Main
+
+-- executable  = RiseOfForm
+
+-- depends     = contrib
+--            , network
